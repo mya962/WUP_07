@@ -60,8 +60,13 @@ From the data we can see that the majority of the alive population was female wi
 
 ## Inferential results 
 
+```{r}
+chisq.test(table1)
+chisqtestGC(table1)
+fisher.test(table1)
+```
 
-
+The Null results expected that the percentage of dead males and females compared to a live males and females would be equal. But the observed counts showed that men nearly doubled the percentage of female the odds ratio of females dying to males is 2:3 showing that men are most likely to die than females.
 
 ## Conclusions
 
