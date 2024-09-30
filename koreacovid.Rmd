@@ -40,8 +40,13 @@ state of a patient must be died or alive - we adjust that as well
 
 
 
+```{r}
+barchartGC(~result + Sex,data=kRdata )
+barchartGC(~result + Sex,data=kRdata , type="percent")
 
-
+```
+ 
+  The majority of female who were alive was about 55%, while 45% were male.But out of the population that died, nearly 65% were male while 45% were female. This basically just means there was significant difference between the amounts of males that died than females.
   
 ## Numerical results
 
