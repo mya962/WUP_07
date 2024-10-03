@@ -70,4 +70,4 @@ The Null results expected that the percentage of dead males and females compared
 
 ## Conclusions
 
-From the data and graph shown we can see that there is a correlation between sex and death males are more than twice as the most likey  to die even though women are the majority of the population
+From the data and graph shown we can see that there is a correlation between sex and death males are more than twice as the most likely to die even though women are the majority of the population.
